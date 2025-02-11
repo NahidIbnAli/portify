@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Create an instance of axios
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:5001/api", // Change this to your backend URL
+  baseURL: "https://portify-server.vercel.app/api", // Change this to your backend URL
 });
 
 // Add a request interceptor
