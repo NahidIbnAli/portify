@@ -1,8 +1,5 @@
 # **Portify**
 
-## About & Features
-
-
 ### `Client side link :` [https://portifyy.vercel.app/](https://portifyy.vercel.app/)
 ### `Server side link :` [https://portify-server.vercel.app/](https://portify-server.vercel.app/)
 
