@@ -1,8 +1,12 @@
-# React + Vite
+# **Portify**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About & Features
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### `Client side link :` [https://portifyy.vercel.app/](https://portifyy.vercel.app/)
+### `Server side link :` [https://portify-server.vercel.app/](https://portify-server.vercel.app/)
+
+# `Dashboard Login Route :` [https://portifyy.vercel.app/dashboard/](https://portifyy.vercel.app/dashboard/)
+
+# `Admin Username: portifyer`
+# `Password: admin123`
